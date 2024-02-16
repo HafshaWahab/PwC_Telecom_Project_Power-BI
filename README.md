@@ -1,5 +1,5 @@
 # PwC_TELECOM_PROJECT_POWER-BI
-PwC (PricewaterhouseCoopers) is a multinational professional services network known for providing a wide range of services in auditing, assurance, consulting, tax advisory, and business advisory. I spearheaded a transformative initiative within the PwC Digital Accelerator Project, offered by Forage, focusing on Power BI as the cornerstone of data analytics. As an enthusiastic data analyst, I meticulously navigated through intricate datasets, employing advanced Microsoft Power BI techniques to extract actionable insights and drive informed decision-making.
+PwC (PricewaterhouseCoopers) is a multinational professional services network known for providing a wide range of services in auditing, assurance, consulting, tax advisory, and business advisory. I spearheaded a transformative initiative within the PwC as a Digital Accelerator, offered by Forage, focusing on Power BI as the cornerstone of data analytics. As an enthusiastic data analyst, I meticulously navigated through intricate datasets, employing advanced Microsoft Power BI techniques to extract actionable insights and drive informed decision-making.
 ## Methodology:
 Data Collection | Data Cleaning & organisation | Data Analysis | Conclusion
 
@@ -19,16 +19,20 @@ We have been provided with a dataset for three months (January to March 2021). I
 
 ![PwC Image_1](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/f2e0b4ea-050e-4f0a-9243-f52a3130e594)
 
-#### January was the month of having the highest number of calls received.
+* January was the month of having the highest number of calls received.
 
-#### Number of calls that were answered = 4054 out of 5000
+* Number of calls that were answered = 4054 out of 5000
 
-#### % of issues that were resolved = 72.92% 
+* % of issues that were resolved = 72.92% 
 
-#### On average customer satisfaction = 2.76
+* On average customer satisfaction = 2.76
 
 
 ### Dashboard 2-
+
+We analysed the customers' demographics and the various services provided by the telecom company.
+
+![Churn Data Image_2](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/89297b64-2c92-4fda-b550-7b8a2ccb649d)
 
 
 

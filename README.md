@@ -14,6 +14,11 @@ In addition, to better understand the data, I was appointed to make another capt
 ### Dashboard 1-  
 [Pwc Report Dashboard](https://github.com/HafshaWahab/Images/blob/main/PwC%20Image_1.jpg)
 
+![PwC Image_1](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/f2e0b4ea-050e-4f0a-9243-f52a3130e594)
+
+
+
+
 We have been provided with a dataset for three months (January to March 2021). In this dashboard, we have analysed:
 
 ### January was the month of having the highest number of calls received.

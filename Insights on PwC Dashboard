@@ -1,10 +1,13 @@
-# Call Center Data Analysis
-We have been provided with the dataset for three months (January to March 2021). In this dashboard, we have analysed 
-- the total number of calls received each month
+# CALL CENTER DATA ANALYSIS
 
-- number of calls that were answered
+We have been provided with a dataset for three months (January to March 2021). In this dashboard, we have analysed 
+### January was the month of having the highest number of calls received.
 
-- number of issues that were resolved
+### Number of calls that were answered = 4054 out of 5000
 
-- 
+### % of issues that were resolved = 72.92% 
+
+### On average customer satisfaction = 2.76
+
+Reference: 
 

@@ -12,21 +12,23 @@ In addition, to better understand the data, I was appointed to make another capt
 
 ## Call Center Data Analysis
 ### Dashboard 1-  
+
+We have been provided with a dataset for three months (January to March 2021). In this dashboard, we have found:
+
 [Pwc Report Dashboard](https://github.com/HafshaWahab/Images/blob/main/PwC%20Image_1.jpg)
 
 ![PwC Image_1](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/f2e0b4ea-050e-4f0a-9243-f52a3130e594)
 
+#### January was the month of having the highest number of calls received.
+
+#### Number of calls that were answered = 4054 out of 5000
+
+#### % of issues that were resolved = 72.92% 
+
+#### On average customer satisfaction = 2.76
 
 
+### Dashboard 2-
 
-We have been provided with a dataset for three months (January to March 2021). In this dashboard, we have analysed:
-
-### January was the month of having the highest number of calls received.
-
-### Number of calls that were answered = 4054 out of 5000
-
-### % of issues that were resolved = 72.92% 
-
-### On average customer satisfaction = 2.76
 
 

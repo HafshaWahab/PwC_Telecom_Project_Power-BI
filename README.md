@@ -30,6 +30,8 @@ We have been provided with a dataset for three months (January to March 2021). I
 
 ### Dashboard 2-
 
+[Customers Demographics](https://github.com/HafshaWahab/Images/blob/main/Churn%20Data%20Image_2.jpg)
+
 We analysed the customers' demographics and the various services provided by the telecom company.
 
 ![Churn Data Image_2](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/89297b64-2c92-4fda-b550-7b8a2ccb649d)

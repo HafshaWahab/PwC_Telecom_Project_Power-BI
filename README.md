@@ -22,4 +22,7 @@ To begin the following includes the required KPIs for the first Dashboard which 
 
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-In addition, to better understand the data, the telecom Retention Manager, I was appointed to make another captivating dashboard describing the demographics of the customers, the main factors leading to churning out of customers, and potential risk analysis.
+In addition, to better understand the data, I was appointed to make another captivating dashboard describing the demographics of the customers, the main factors leading to the churning out of customers, and potential risk analysis.
+
+
+All the useful insights have been shared in another file named as "Insights on Pwc Dashboard".

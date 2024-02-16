@@ -22,4 +22,6 @@ We have been provided with a dataset for three months (January to March 2021). I
 
 ### On average customer satisfaction = 2.76
 
-[Click here to view the dashboard] https://drive.google.com/file/d/10zG6OqXQtMeZ2pzQq73gSwa0zeoIsakk/view?usp=sharing
+[GitHub](https://github.com/)
+
+[Dashboard_1]([PwC Image_1.jpg](https://github.com/HafshaWahab/Images/blob/main/PwC%20Image_1.jpg)https://github.com/HafshaWahab/Images/blob/main/PwC%20Image_1.jpg)

@@ -1,5 +1,5 @@
 # PwC_TELECOM_PROJECT_POWER-BI
-PwC (PricewaterhouseCoopers) is a multinational professional services network known for providing a wide range of services in auditing, assurance, consulting, tax advisory, and business advisory. I spearheaded a transformative initiative within the PwC as a Digital Accelerator, offered by Forage, focusing on Power BI as the cornerstone of data analytics. As an enthusiastic data analyst, I meticulously navigated through intricate datasets, employing advanced Microsoft Power BI techniques to extract actionable insights and drive informed decision-making.
+PwC (PricewaterhouseCoopers) is a multinational professional services network known for providing a wide range of auditing, assurance, consulting, tax advisory, and business advisory services. I spearheaded a transformative initiative within the PwC as a Digital Accelerator, offered by Forage, focusing on Power BI as the cornerstone of data analytics. As an enthusiastic data analyst, I meticulously navigated through intricate datasets, employing advanced Microsoft Power BI techniques to extract actionable insights and drive informed decision-making.
 ## Methodology:
 Data Collection | Data Cleaning & organisation | Data Analysis | Conclusion
 
@@ -35,6 +35,23 @@ We have been provided with a dataset for three months (January to March 2021). I
 We analysed the customers' demographics and the various services provided by the telecom company.
 
 ![Churn Data Image_2](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/89297b64-2c92-4fda-b550-7b8a2ccb649d)
+
+
+### Dashboard 3-
+
+[Risk Analysis](https://github.com/HafshaWahab/Images/blob/main/Churn%20Data%20Image_3.png)
+
+In this dashboard, we analysed the type of customers loyal to the company, the type of contract which benefits in maintaining the yearly revenue and other potential risk factors.
+
+![Churn Data Image_3](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/61e3879c-58ef-44e6-811e-202a6f5a53ae)
+
+
+
+
+
+
+
+
 
 
 

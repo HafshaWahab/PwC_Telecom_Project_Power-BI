@@ -1,6 +1,6 @@
 ![pwc-title](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/36214b12-2352-491c-bbed-c7181d18eef5)
 
-# PwC_TELECOM_PROJECT_POWER-BI
+# PwC TELECOM PROJECT (POWER-BI)
 
 PwC (PricewaterhouseCoopers) is a multinational professional services network known for providing a wide range of auditing, assurance, consulting, tax advisory, and business advisory services. I spearheaded a transformative initiative within the PwC as a Digital Accelerator, offered by Forage, focusing on Power BI as the cornerstone of data analytics. As an enthusiastic data analyst, I meticulously navigated through intricate datasets provided by PhoneNow company, employing advanced Microsoft Power BI techniques to extract actionable insights and drive informed decision-making.
 

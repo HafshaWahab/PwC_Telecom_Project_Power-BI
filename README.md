@@ -22,13 +22,15 @@ In addition, to better understand the data, I was appointed to make another capt
 
 We have been provided with a dataset for three months (January to March 2021). In this dashboard, we have found:
 
-[Power BI Presentation](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/blob/main/PwC_Report.pbix)
+[Call Center Data Presentation](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/blob/main/PwC_Report.pbix)
 
 [Pwc Report Dashboard](https://github.com/HafshaWahab/Images/blob/main/PwC%20Image_1.jpg)
 ![PwC Image_1](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/f2e0b4ea-050e-4f0a-9243-f52a3130e594)
 
 
 ### Dashboard 2
+
+[Churn Data Presentation](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/blob/main/Churn_Data_PwC.pbix)
 
 [Customers Demographics](https://github.com/HafshaWahab/Images/blob/main/Churn%20Data%20Image_2.jpg)
 

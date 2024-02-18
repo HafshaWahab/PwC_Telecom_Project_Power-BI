@@ -7,9 +7,13 @@ Data Collection | Data Cleaning & organisation | Data Analysis | Conclusion
 To begin the analysis, following includes the required KPIs for the first Dashboard which analyses the customer satisfaction and services provided to them.
 
 ## KPIs:
-Overall customer satisfaction  |  Overall calls answered/abandoned  |  Calls by time  |  The average speed of answer  |  Agent’s performance quadrant - average handle time (talk duration) vs calls answered
+* Overall customer satisfaction
+* Overall calls answered/abandoned
+* Calls by time
+* The average speed of answer
+* Agent’s performance quadrant - average handle time (talk duration) vs calls answered
 
-In addition, to better understand the data, I was appointed to make another captivating dashboard describing the demographics of the customers, the main factors leading to the churning out of customers, and potential risk analysis.
+In addition, to better understand the data, I was appointed to make another captivating dashboard describing the customers' demographics, the main factors leading to the churning out of customers, potential risk analysis and also the proportion of diversity and equality among the employees.
 
 
 ## Call Center Data Analysis

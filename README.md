@@ -13,7 +13,7 @@ To begin the analysis, following includes the required KPIs for the first Dashbo
 * The average speed of answer
 * Agent’s performance quadrant - average handle time (talk duration) vs calls answered
 
-In addition, to better understand the data, I was appointed to make another captivating dashboard describing the customers' demographics, the main factors leading to the churning out of customers, potential risk analysis and also the proportion of diversity and equality among the employees.
+In addition, to better understand the data, I was appointed to make another captivating dashboards describing the customers' demographics, the main factors leading to the churning out of customers, potential risk analysis and also the proportion of diversity and equality among the employees.
 
 
 ## Call Center Data Analysis

@@ -32,11 +32,11 @@ We analysed the customers' demographics and the various services provided by the
 
 ### Dashboard 3
 
-[Risk Analysis](https://github.com/HafshaWahab/Images/blob/main/Churn%20Data%20Image_3.png)
+[Risk Analysis](https://github.com/HafshaWahab/Images/blob/main/Churn%20Data%20Image_3.jpg)
 
 In this dashboard, we analysed the type of customers loyal to the company, the type of contract which benefits in maintaining the yearly revenue and other potential risk factors.
 
-![Churn Data Image_3](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/61e3879c-58ef-44e6-811e-202a6f5a53ae)
+![Churn Data Image_3](https://github.com/HafshaWahab/PwC_Telecom_Project_Power-BI/assets/152807534/ea8ac706-ec15-4ab3-9f02-7c8457a9e7c0)
 
 
 ### Dashboard 4
